@@ -41,4 +41,4 @@ async def duyuru_error(ctx, error):
         await ctx.send('Bu komutu kullanmak için yeterli yetkiniz yok!')
 
 # Botunuzu başlatmak için token girin
-bot.run('MTI3NTAzMzQ5Mzc1MDkzOTY2OQ.Gvz9Mm.wBwTb0RzBWoocJAQeOzNsk7uvjDzpWDr4_k2hE')
+bot.run('TOKEN')
